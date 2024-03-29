@@ -8,8 +8,7 @@
 
 <h5 align="center">
  <code><a href="https://www.linkedin.com/in/kabir-hiking/" title="LinkedIn Profile">
-    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 256px; height: 256px; margin: 0px; width: 256px;" alt="Linkedin - Free social media icons" jsname="kn3ccd" aria-hidden="false">
-    LinkedIn
+    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 256px; height: 256px; margin: 0px; width: 256px;" alt="Linkedin - Free social media icons" jsname="kn3ccd" aria-hidden="false">LinkedIn
 </a></code>
 
 
