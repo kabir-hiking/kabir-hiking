@@ -8,7 +8,7 @@
 
 <h5 align="center">
    <code><a href="https://www.linkedin.com/in/kabir-hiking/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-   <code><a href="https://codeforces.com/profile/hiking9" title="Codeforces"><img height="100" style="height: 100px;" alt="Codeforces" src="https://codeforces.org/s/52016/images/codeforces-sponsored-by-        
+   <code><a href="https://codeforces.com/profile/hiking9" title="Codeforces"><img width="15" height="15" style="height: 12px;" " src="https://codeforces.org/s/52016/images/codeforces-sponsored-by-        
    ton.png">codeforces</a></code>
    <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
