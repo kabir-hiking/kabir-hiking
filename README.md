@@ -7,9 +7,7 @@
 </h1>
 
 <h5 align="center">
- <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile">
-    <img width="22" src="https://github.com/kabir-hiking/kabir-hiking/raw/main/assets/86849015/8b105028-92e1-42ad-ade2-de32b53fba95.png" alt="LinkedIn"> LinkedIn
-</a></code>
+ <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 
 
   <code><a href="https://codeforces.com/profile/hiking9" title="Codeforces"><img width="15" height="10" style="height: 
