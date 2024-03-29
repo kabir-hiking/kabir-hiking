@@ -7,8 +7,12 @@
 </h1>
 
 <h5 align="center">
- <code><a href="https://www.linkedin.com/in/kabir-hiking/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg" alt="LinkedIn"> LinkedIn
+ <code><a href="https://www.linkedin.com/in/kabir-hiking/" title="LinkedIn Profile">
+    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 256px; height: 256px; margin: 0px; width: 256px;" alt="Linkedin - Free social media icons" jsname="kn3ccd" aria-hidden="false">
+    LinkedIn
 </a></code>
+
+
 
 <code><a href="https://codeforces.com/profile/hiking9" title="Codeforces"><img width="15" height="10" style="height: 
   12px;"src="https://codeforces.org/s/52016/images/codeforces-sponsored-by-ton.png">codeforces</a></code>
