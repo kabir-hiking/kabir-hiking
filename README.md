@@ -29,7 +29,7 @@ I'm a competitive programmer and backend developer in addition to my academic in
 ## Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=kabir-hiking&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="kabir-hiking's GitHub Stats" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kabir-hiking&theme=material-palenight&hide_border=false" alt="kabir-hiking's GitHub Streak" /></p                                                                                                                                                              
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-hiking&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="kabir-hiking's Top Languages" /></p>
+<!--<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-hiking&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="kabir-hiking's Top Languages" /></p>-->
 
 
 <!--<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kabir-hiking&theme=default" alt="kabir-hiking's GitHub Stars" /></p> -->
