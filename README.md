@@ -1,5 +1,7 @@
-                                                             # Hi there! I'm Raihan kabir 👋
-   I'm a competitive programmer and backend developer in addition to my academic interests. I enjoy taking on new tasks and learning about the complexities of software development.
+<div align="center">
+  <h1>Hi there! I'm Raihan Kabir 👋</h1>
+</div>
+I'm a competitive programmer and backend developer in addition to my academic interests. I enjoy taking on new tasks and learning about the complexities of software development.
 
 
 ## About Me
