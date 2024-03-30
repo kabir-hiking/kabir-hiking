@@ -40,7 +40,7 @@ I'm a competitive programmer and backend developer in addition to my academic in
 
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4) -->
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C863%20hrs%2027%20mins-blue)
 
 **🐱 My GitHub Data** 
@@ -104,7 +104,7 @@ HTML                     3 repos             █████░░░░░░�
 Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
 CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
-```
+```-->
 
 
 
