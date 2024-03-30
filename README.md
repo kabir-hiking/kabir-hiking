@@ -32,13 +32,13 @@ I'm a competitive programmer and backend developer in addition to my academic in
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-hiking&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="kabir-hiking's Top Languages" /></p>-->
 
 
-<!--<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kabir-hiking&theme=default" alt="kabir-hiking's GitHub Stars" /></p> -->
+<!--<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kabir-hiking&theme=default" alt="kabir-hiking's GitHub Stars" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cxyfreedom&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
 
-![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4) -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C863%20hrs%2027%20mins-blue)
