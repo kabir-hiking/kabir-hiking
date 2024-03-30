@@ -29,6 +29,9 @@ I'm a competitive programmer and backend developer in addition to my academic in
 ## Stats
 <p><img src="https://github-profile-trophy.vercel.app/?username=kabir-hiking&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="kabir-hiking's GitHub Stars" /></p>
 
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kabir-hiking&theme=default" alt="kabir-hiking's GitHub Stars" /></p>
+
+
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cxyfreedom&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
